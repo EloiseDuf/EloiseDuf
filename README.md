@@ -1,4 +1,10 @@
-### Hi, I'm Eloïse 👋
+<h1 align="center">Hi I'm Eloïse</h1>
+
+<!-- Intro from Code-Oz-->
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;java+JS+and+more">
+    <h3 align="center">I am looking for a work-study contract from September 2024</h3>
+</p>
 
 
 # 💻 Tech Stack:
