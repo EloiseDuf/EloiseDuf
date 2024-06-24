@@ -3,7 +3,7 @@
 <!-- Intro from Code-Oz-->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;Java,+JS+and+more">
-    <h3 align="center">I will begin a new job (study contract) starting in September for 15 months.</h3>
+    <h3 align="center">I will begin a new job (study contract) starting in September for 15 months (React/Java).</h3>
 </p>
 
 
